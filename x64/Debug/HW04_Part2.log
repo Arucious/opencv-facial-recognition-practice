@@ -1,0 +1,10 @@
+﻿  HW04_Part2.cpp
+c:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\arslan tarar\downloads\cs262-hw04\hw04_part2\hw04_part2.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\arslan tarar\downloads\cs262-hw04\hw04_part2\hw04_part2.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arslan tarar\downloads\cs262-hw04\hw04_part2\hw04_part2.cpp(193): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arslan tarar\downloads\cs262-hw04\hw04_part2\hw04_part2.cpp(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arslan tarar\downloads\cs262-hw04\hw04_part2\hw04_part2.cpp(249): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  HW04_Part2.vcxproj -> C:\Users\Arslan Tarar\Downloads\CS262-HW04\x64\Debug\HW04_Part2.exe
+  HW04_Part2.vcxproj -> C:\Users\Arslan Tarar\Downloads\CS262-HW04\x64\Debug\HW04_Part2.pdb (Full PDB)
